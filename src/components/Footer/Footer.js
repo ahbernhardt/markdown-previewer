@@ -2,24 +2,17 @@ import React from 'react';
 import './Footer.css';
 
 const Footer = () => (
-  <footer className="Footer">
-    <span>
-      Created by:{' '}
-      <a>
-        Anh Nguyen
-      </a>
-    </span>
-    <span> | </span>
-    <span>
-      <a
-        className="Footer-link"
-        href="https://github.com/anguyen0208/fcc-markdown-previewer"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Repo Link
-      </a>
-    </span>
+  <footer className="footer">
+      <p>
+          © Anh Nguyen
+          <span> </span>
+          <span>
+            Repo Link: {'  '}
+              <a className="footer-link" href="https://github.com/anguyen0208/fcc-markdown-previewer" target="_blank" rel="noopener noreferrer">
+                <i className="fab fa-github" />
+            </a>
+        </span>
+      </p>
   </footer>
 );
 

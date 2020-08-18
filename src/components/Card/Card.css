@@ -14,11 +14,11 @@
   display: flex;
   justify-content: space-between;
   z-index: 10;
-  border-bottom: #e67e22 solid 1px;
+  border-bottom: #f1c40f solid 2px;
 }
 
 .Card-header-title {
-  color: #e67e22;
+  color: #f1c40f;
   padding: 5px 0 0 5px;
   font-weight: normal;
 }

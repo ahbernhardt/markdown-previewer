@@ -10,7 +10,7 @@ Live project link: <https://anguyen0208.github.io/fcc-markdown-previewer/>
 
 ## Screenshot
 
-![markdown-screenshot](https://user-images.githubusercontent.com/37429704/50350173-3b903900-0579-11e9-89fe-5082adf1b44c.png)
+![markdown-screenshot](https://github.com/anguyen0208/images/blob/master/Screen%20Shot%202020-08-18%20at%205.05.43%20PM.png)
 
 ## Objective
 
