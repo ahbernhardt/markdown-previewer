@@ -5,10 +5,9 @@ import Preview from './components/Preview';
 import Card from './components/Card/Card';
 import Footer from './components/Footer/Footer';
 
-const initialMd = `# Greetings Earthlings! 
-## Welcome to my markdown previewer
-
-[freeCodeCamp](https://www.freecodecamp.org/)
+const initialMd = `
+# Welcome to markdown previewer
+### Front End Libraries Projects at [freeCodeCamp](https://www.freecodecamp.org/)
 
 Front End Libraries Projects
 - Random Quote Machine
@@ -56,7 +55,7 @@ class App extends Component {
 
     return (
         <div className="App">
-          <h1 className="App-title"> &mdash;Markdown Previewer&mdash;</h1>
+          <h1 className="App-title"> Markdown Previewer</h1>
           <main className="App-content">
             <Card title="Editor">
               <Editor
