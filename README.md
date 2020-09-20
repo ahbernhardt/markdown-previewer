@@ -1,12 +1,8 @@
 # Markdown Previewer
 
-Build a Markdown Previewer. This is the second project of [FreeCodeCamp Front End Libraries Certification](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer/).
+> Build a Markdown Previewer. This is the second project of [FreeCodeCamp Front End Libraries Certification](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer/). The project was built with React.
 
-This project was built with React.
-
-## Live Demonstration
-
-Live project link: <https://anguyen0208.github.io/fcc-markdown-previewer/>
+Check for [Live Demo](https://anhnguyen.page/fcc-markdown-previewer/)
 
 ## Screenshot
 
@@ -14,11 +10,9 @@ Live project link: <https://anguyen0208.github.io/fcc-markdown-previewer/>
 
 ## Objective
 
-- Build a [CodePen.io](https://codepen.io) app that is functionally similar to this: <https://codepen.io/freeCodeCamp/full/GrZVVO>. 
+Build a [CodePen.io](https://codepen.io) app or other frontend framework that is functionally similar to this: <https://codepen.io/freeCodeCamp/full/GrZVVO>. 
 
-- Fulfill the below user stories and get all the tests to pass. Give it your own personal style. You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery to complete this project. You should use a frontend framework (like React for example) because this section is about learning frontend frameworks. Additional technologies not listed above are not recommended and using them is at your own risk. We are looking at supporting other frontend frameworks like Angular and Vue, but they are not currently supported. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
-
-## User stories
+### User stories
 
 - [x] I can see a `textarea` element with a corresponding `id="editor"`.
 
@@ -32,36 +26,32 @@ Live project link: <https://anguyen0208.github.io/fcc-markdown-previewer/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts for React app
 
 In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app and view it on the browser in the development mode:
+    [http://localhost:3000](http://localhost:3000)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+The page will reload if you make edits.
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `npm run predeploy` or `npm run build`
 
 Builds the app for production to the `build` folder.<br>
 
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `npm run deploy`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Deploy `build` folder to `gh-pages` branch of the repository .<br>
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-## Learn More
+---
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
