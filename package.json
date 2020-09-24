@@ -1,7 +1,7 @@
 {
   "name": "markdown-previewer",
   "version": "0.1.0",
-  "homepage": "https://anguyen0208.github.io/fcc-markdown-previewer",
+  "homepage": "https://anhnguyen.page/fcc-markdown-previewer/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
