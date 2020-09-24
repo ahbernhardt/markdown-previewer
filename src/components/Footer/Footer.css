@@ -1,8 +1,12 @@
 .footer {
   text-align: center;
-  padding: 2.0rem 0;
+  padding: .5rem 0;
   font-size: 1.4rem;
   color: #cccccc;
+}
+
+.footer a {
+  margin-left: .5rem;
 }
 
 .footer span {
@@ -12,17 +16,17 @@
 
 .footer-link {
   text-decoration: none;
-  color: #f1c40f;
+  color: #ffffff;
   border-bottom: 1px solid transparent;
   transition: all 0.3s ease-out;
 }
 
 .footer-link i {
-  color: #f1c40f;
+  color: #ffffff;
   font-size: 1.8rem;
   margin-right: 4px;
 }
 
-.footer-link:hover {
-  border-bottom: 1px solid #f1c40f;
+.footer-link:hover, .footer-link i:hover{
+  color:  #f1c40f;
 }
