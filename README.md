@@ -15,7 +15,7 @@ Build a [CodePen.io](https://codepen.io) app or other frontend framework that is
 ## Usage
 
 ```sh
-git clone https://github.com/anguyen0208/fcc-markdown-previewer.git
+git clone https://github.com/anguyen0208/markdown-previewer.git
 cd fcc-markdown-previewer
 
 # install dependencies
