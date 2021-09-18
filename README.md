@@ -2,7 +2,7 @@
 
 > Build a Markdown Previewer. This is the second project of [FreeCodeCamp Front End Libraries Certification](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer/). The project was built with React.
 
-Check for [Live Demo](https://anguyen0208.github.io/fcc-markdown-previewer/)
+Check for [Live Demo](https://anguyen0208.github.io/markdown-previewer/)
 
 ## Screenshot
 
