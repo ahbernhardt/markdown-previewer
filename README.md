@@ -6,7 +6,7 @@ Check for [Live Demo](https://ahbernhardt.github.io/markdown-previewer/)
 
 ## Screenshot
 
-![markdown-screenshot](https://github.com/anguyen0208/Project-Screenshots/blob/master/FCC-Markdown-Previewer.jpg)
+![markdown-screenshot](https://github.com/ahbernhardt/Project-Screenshots/blob/master/FCC-Markdown-Previewer.jpg)
 
 ## Objective
 
@@ -15,7 +15,7 @@ Build a [CodePen.io](https://codepen.io) app or other frontend framework that is
 ## Usage
 
 ```sh
-git clone https://github.com/anguyen0208/markdown-previewer.git
+git clone https://github.com/ahbernhardt/markdown-previewer.git
 cd markdown-previewer
 
 # install dependencies
